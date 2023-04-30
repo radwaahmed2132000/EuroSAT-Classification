@@ -4,7 +4,7 @@
 [ 'River', 'SeaLake','AnnualCrop','Forest','HerbaceousVegetation','Highway','Industrial','Pasture','PermanentCrop','Residential']
 
 
->This serves as the assignment for the SatelliteImagery course taught to seniro students in CUFE for 2023.
+>This serves as the assignment for the SatelliteImagery course taught to senior students in CUFE for 2023.
 
 ## Technologies 📚
 
