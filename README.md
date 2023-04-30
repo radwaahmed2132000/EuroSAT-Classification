@@ -26,6 +26,7 @@ First , I buit NN CLass which contains the basic resnet-18 layers
 Secondly , building ResNet-18 with 4 Layers of skip connections
 ### Results
 I started training with 5 Epochs which gets 88% for both train & test
+with 10 epochs I got 93.5 for training and 87.95 for testing
 
 ### Resource & References 
 Meduim , Kaggle ,RestNet architecture Papers
